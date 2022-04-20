@@ -1,7 +1,8 @@
 # Personal Portfolio 🔥
-> https://iopetrick.github.io/
+## [Preview](https://iopetrick.github.io/)
 
-## [My Profile](https://github.com/iopetrick)
+##
+[My Profile](https://github.com/iopetrick)
 
 :star: Star me on GitHub — it helps!
 
