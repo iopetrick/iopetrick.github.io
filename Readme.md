@@ -13,4 +13,4 @@
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
-#### Thanks to [Rajaprerak]https://github.com/rajaprerak/
+#### Thanks to [!Rajaprerak](https://github.com/rajaprerak/)
