@@ -1,6 +1,8 @@
 # Personal Portfolio 🔥
 > https://iopetrick.github.io/
 
+## [My Profile](https://github.com/iopetrick)
+
 :star: Star me on GitHub — it helps!
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/iopetrick/iopetrick.github.io/commits/master)
